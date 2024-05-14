@@ -30,7 +30,7 @@ const alice: Person = {
   gender: 'female'
 }
 
-function printSeason(season){
+function printSeason(season: any){
   console.log(`It's ${season} now!`)
 }
  
