@@ -26,5 +26,3 @@ function isStringArray(arr: StringOrNumber2[]){
 
 
 
-
-isStrings = isStringArray([1,2,'a','asd'])
